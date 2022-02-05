@@ -8,7 +8,7 @@ public class Exercicio3 {
     public static void main(String[] args) throws IOException {
 
         Scanner teclado = new Scanner(System.in);
-        
+
         double C = teclado.nextDouble();
         double F = (9 * C) / 5;
 
